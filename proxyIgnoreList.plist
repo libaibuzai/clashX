@@ -8,6 +8,7 @@
 	<string>127.0.0.1</string>
 	<string>localhost</string>
 	<string>*.local</string>
+	<string>risencn.com</string>
 	<string>*.crashlytics.com</string>
 	<string>my-custom-site.com</string>
 </array>
